@@ -85,4 +85,4 @@ Below are screenshots of key project results, such as successful unit test execu
 
 This project was developed for the **Concurrency and Multithreading Assignment** under the supervision of **Dr. Prof. Galyna Tabunshchyk**.
 
-## [Link to Video]([https://fhdoprod-my.sharepoint.com/:v:/g/personal/maede_eskandariborujerdi001_stud_fh-dortmund_de/ETYJqdaYkoFDsCINwNEW8WoBGn53bEl_eJs_sm5yRbmQ4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fguJfz])
+## [Link to Video](https://fhdoprod-my.sharepoint.com/:v:/g/personal/maede_eskandariborujerdi001_stud_fh-dortmund_de/ETYJqdaYkoFDsCINwNEW8WoBGn53bEl_eJs_sm5yRbmQ4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fguJfz)
