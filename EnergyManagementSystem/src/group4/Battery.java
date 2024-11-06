@@ -22,3 +22,26 @@ public class Battery {
         System.out.println("Charged: " + amount + "%, Current charge: " + chargeLevel + "%");
         notifyAll();
     }
+    public synchronized void use(int amount) {
+        while (chargeLevel <= 0) {
+            try {
+                // Wait if the battery is empty
+                wait();
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+            }
+        }
+
+        // Subtract usage and enforce minimum charge of 0
+        chargeLevel -= amount;
+        if (chargeLevel < 0) {
+            chargeLevel = 0;
+        }
+        System.out.println("Used: " + amount + "%, Current charge: " + chargeLevel + "%");
+        notifyAll();
+    }
+
+    public int getChargeLevel() {
+        return chargeLevel;
+    }
+}
